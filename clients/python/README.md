@@ -16,7 +16,7 @@ vim .env
 REDPANDA_BROKERS=<comma-separated list of brokers>
 REDPANDA_SERVICE_ACCOUNT=<service account name>
 REDPANDA_SERVICE_ACCOUNT_PASSWORD=<service account password>
-REDPANDA_DEFAULT_TIPIC_NAME=<topic name>
+REDPANDA_DEFAULT_TOPIC_NAME=<topic name>
 
 
 ```
